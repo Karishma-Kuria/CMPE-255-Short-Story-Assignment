@@ -5,6 +5,6 @@ Prediction
 
 ### Medium Article link: https://medium.com/@karishma.kuria_14153/educational-data-mining-students-performance-prediction-9f58887671e2
 
-### Yuotube Video link:https://youtu.be/vVepaCq4KtU
+### Youtube Video link:https://youtu.be/vVepaCq4KtU
 
 ### Slideshare PPT Link: https://www.slideshare.net/KarishmaKuria1/short-story-ppt-250755455
