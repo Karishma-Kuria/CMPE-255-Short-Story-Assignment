@@ -7,4 +7,4 @@ Prediction
 
 ### Youtube Video link:https://youtu.be/vVepaCq4KtU
 
-### Slideshare PPT Link: https://www.slideshare.net/KarishmaKuria1/shortstorypptpptx
+### Slideshare PPT Link: https://www.slideshare.net/KarishmaKuria1/short-story-ppt-250755455
